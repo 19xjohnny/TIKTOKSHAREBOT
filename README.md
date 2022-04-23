@@ -1,2 +1,4 @@
-# TIKTOKSHAREBOT
-note: this is not mine i am just made this one for mobile
+--# TIKTOKSHAREBOT
+--note: this is not mine i am just made this one for mobile
+--if u would like to help me just follow me on tiktok sr4kz
+--click enter for it to work then put 0 then put your video link then it works
